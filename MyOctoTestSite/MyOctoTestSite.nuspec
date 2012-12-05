@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Octopus.Deploy.TestSite</id>
+    <title>My test site for octopus deploys</title>
+    <version>1.0.0</version>
+    <authors>Chris Sainty</authors>
+    <owners>Chris Sainty</owners>
+    <licenseUrl>http://blog.csainty.com</licenseUrl>
+    <projectUrl>http://blog.csainty.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A test project</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+</package>
